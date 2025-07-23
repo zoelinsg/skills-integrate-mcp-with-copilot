@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Chess Club",
+    "description": "Learn strategies and compete in chess tournaments",
+    "slots": [
+      {"time": "Friday 3:30-4:15 PM", "max_participants": 6, "participants": []},
+      {"time": "Friday 4:15-5:00 PM", "max_participants": 6, "participants": []}
+    ]
+  },
+  {
+    "name": "Programming Class",
+    "description": "Learn programming fundamentals and build software projects",
+    "slots": [
+      {"time": "Tuesday 3:30-4:30 PM", "max_participants": 10, "participants": []},
+      {"time": "Thursday 3:30-4:30 PM", "max_participants": 10, "participants": []}
+    ]
+  },
+  {
+    "name": "Gym Class",
+    "description": "Physical education and sports activities",
+    "slots": [
+      {"time": "Monday 2:00-3:00 PM", "max_participants": 10, "participants": []},
+      {"time": "Wednesday 2:00-3:00 PM", "max_participants": 10, "participants": []},
+      {"time": "Friday 2:00-3:00 PM", "max_participants": 10, "participants": []}
+    ]
+  }
+]
